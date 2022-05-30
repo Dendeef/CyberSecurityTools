@@ -1,5 +1,5 @@
 # CybersecurityScripts
-Customm made scripts and tools for the Cbersecurity industry (still being updated) 
+Custom made scripts and tools for the Cbersecurity industry (still being updated) 
 
 1 ProccesKiller
 2 Impresentation Tool
